@@ -1,4 +1,4 @@
-:point_right: PUT YOUR CI BADGE HERE
+:point_right: [![SonarCloud](https://github.com/AngelBrionesMunoz/trabajo3-localizacion-covidAnGEL/actions/workflows/main.yml/badge.svg)](https://github.com/AngelBrionesMunoz/trabajo3-localizacion-covidAnGEL/actions/workflows/main.yml)
 
 # EMS-lab3 Maintainability
 
